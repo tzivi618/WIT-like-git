@@ -1,0 +1,8 @@
+Repository.py
+setup.py
+WitProject.egg-info/PKG-INFO
+WitProject.egg-info/SOURCES.txt
+WitProject.egg-info/dependency_links.txt
+WitProject.egg-info/entry_points.txt
+WitProject.egg-info/requires.txt
+WitProject.egg-info/top_level.txt

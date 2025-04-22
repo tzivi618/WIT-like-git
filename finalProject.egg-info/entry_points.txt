@@ -1,0 +1,7 @@
+[console_scripts]
+add = wit:add
+checkout = wit:checkout
+commit = wit:commit
+init = wit:init
+log = wit:log
+status = wit:status
